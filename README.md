@@ -4,16 +4,6 @@
 To help stakeholders analyze their business and develop future growth strategies, a detailed business analysis dashboard can be created. This dashboard will focus on customer demographics to analyze and gain insights into their characteristics.
 
 
-
-## 
-
-
-
-
-![Results](C:\Users\Admin\Downloads\Sales_overview.png)
-![Results](C:\Users\Admin\Downloads\Customer.png)
-
-
 ## 🛠 Skills
 SQL
 PowerBI
